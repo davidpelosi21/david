@@ -4,5 +4,3 @@
 
 layout: default
 ---
-
-Ciao sono David 16/11/1996
