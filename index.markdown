@@ -4,4 +4,5 @@
 
 layout: default
 ---
-Tesi_triennale 
+Tesi_triennale
+David Pelosi
